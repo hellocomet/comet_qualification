@@ -27,9 +27,6 @@ Voici quelques éléments de contenu à propos de la vision comet :
 [Inventer le futur du travail](https://www.youtube.com/watch?v=loBJgqQIgFA)
 
 
-
-## La technique du Drill-Down 
-
 ## Les exercices de Drill-Down 
 
 - [Flood Fill](https://github.com/hellocomet/comet_qualification/raw/master/Flood%20Fill.pdf)
