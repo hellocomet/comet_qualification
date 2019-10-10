@@ -35,7 +35,7 @@ Voici quelques éléments de contenu à propos de la vision comet :
 
 - Comment peut-on créer une webradio live ? Comment peut-on créer son évolution on demand (type spotify) ? 
 
-- Qu'est ce qui se passe quand on clique sur un lien ?
+- Que se passe t-il quand on clique sur un lien ?
 
 - Comment pourrait-on faire pour créer un chat en ligne ?
 
