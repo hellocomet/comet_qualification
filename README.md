@@ -29,17 +29,17 @@ Voici quelques éléments de contenu à propos de la vision comet :
 
 ## Les exercices de Drill-Down 
 
-- [Flood Fill](https://github.com/hellocomet/comet_qualification/raw/master/exo_floodfill.pdf)
+- [Flood Fill](exo_floodfill.pdf)
 
-- Comment peut-on créer un site de jeu d’échecs en ligne, humain contre humain ? 
+- [Comment peut-on créer un site de jeu d’échecs en ligne, humain contre humain ?](exo_echecs.md) 
 
-- Comment peut-on créer une webradio live ? Comment peut-on créer son évolution on demand (type spotify) ? 
+- [Comment peut-on créer une webradio live ? Comment peut-on créer son évolution on demand (type spotify) ?](exo_webradio.md)
 
-- Que se passe t-il quand on clique sur un lien ?
+- [Que se passe t-il quand on clique sur un lien ?](exo_lien.md)
 
-- Comment pourrait-on faire pour créer un chat en ligne ?
+- [Comment pourrait-on faire pour créer un chat en ligne ?](exo_chatenligne.md)
 
-- Comment pourrait-on faire pour créer un document partagé avec de la collaboration en temps réel ?
+- [Comment pourrait-on faire pour créer un document partagé avec de la collaboration en temps réel ?](exo_docpartagé.md)
 
 
 ## Les outils de live coding et whiteboard 
