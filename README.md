@@ -39,7 +39,7 @@ Voici quelques éléments de contenu à propos de la vision comet :
 
 - Comment pourrait-on faire pour créer un chat en ligne ?
 
-- Comment pourrait-on faire pour créer un Google Doc avec du temps réel et de la collaboration ?
+- Comment pourrait-on faire pour créer un document partagé avec de la collaboration en temps réel ?
 
 
 ## Les outils de live coding et whiteboard 
