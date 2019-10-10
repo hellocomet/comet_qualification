@@ -14,15 +14,47 @@ L'examinateur est un freelance de la communauté comet qui est responsable de la
 
 ## L'entretien de qualification
 L'entretien de qualification se déroule en 4 étapes
-1. **Icebreaker** : vous présenter, présenter le but de l’entretien, le déroulé, quels sont les objectifs. *(5min)*
+1. **Icebreaker** : vous présenter ainsi que comet, présenter le but de l’entretien, le déroulé, quels sont les objectifs. *(5min)*
 2. **Drill-Down** : la technique du drill-down appliquée à une expérience professionnelle passée *(10-15min)*
 3. **Exercice** : exercice technique en live *(35-40min)*
 4. **Q&A** : prochaines étapes et questions *(5min)*
 
+## Le pitch comet 
+Voici quelques éléments de contenu à propos de la vision comet :
 
+[Le Manifeste du Post-Freelancing](https://newsroom.hellocomet.co/le-manifesto-du-post-freelancing-17d9f7c97001)
+
+[Inventer le futur du travail](https://www.youtube.com/watch?v=loBJgqQIgFA)
 
 
 
 ## La technique du Drill-Down 
 
 ## Les exercices de Drill-Down 
+
+- [Flood Fill](https://github.com/hellocomet/comet_qualification/raw/master/Flood%20Fill.pdf)
+
+- Comment peut-on créer un site de jeu d’échecs en ligne, humain contre humain ? 
+
+- Comment peut-on créer une webradio live ? Comment peut-on créer son évolution on demand (type spotify) ? 
+
+- Qu'est ce qui se passe quand on clique sur un lien ?
+
+- Comment pourrait-on faire pour créer un chat en ligne ?
+
+- Comment pourrait-on faire pour créer un Google Doc avec du temps réel et de la collaboration ?
+
+
+## Les outils de live coding et whiteboard 
+
+[Awwapp](https://www.awwapp.com/)
+
+[Codebunk](https://codebunk.com/)
+
+[Codeshare](https://codeshare.io)
+
+[Repl.it](repl.it)
+
+[Codesanbox](https://codesandbox.io/)
+
+[Coderpad](https://coderpad.io/)
