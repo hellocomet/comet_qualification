@@ -10,7 +10,18 @@ Quels objectifs ?
 Concrètement, il s'agit d'un entretien "peer-to-peer" avec un freelance de la communauté sélectionné et formé pour qualifier des compétences. On l'appelle **examinateur comet**.
 
 ## L'examinateur comet 🎓 
-L'examinateur est un freelance de la communauté comet qui est responsable de la sélection de ses pairs. Il assure de leur niveaux techniques et donne le laisser-passer leur permettant d'aller en mission chez le client. 
+L'examinateur est un freelance de la communauté comet qui est responsable de la sélection de ses pairs. Il assure de leur niveaux techniques et donne le laisser-passer leur permettant d'être envoyé en mission chez le client. 
+
+## L'entretien de qualification
+L'entretien de qualification se déroule en 4 étapes
+1. **Icebreaker** : vous présenter, présenter le but de l’entretien, le déroulé, quels sont les objectifs. *(5min)*
+2. **Drill-Down** : la technique du drill-down appliquée à une expérience professionnelle passée *(10-15min)*
+3. **Exercice** : exercice technique en live *(35-40min)*
+4. **Q&A** : prochaines étapes et questions *(5min)*
+
+
+
+
 
 ## La technique du Drill-Down 
 
