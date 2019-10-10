@@ -29,7 +29,7 @@ Voici quelques éléments de contenu à propos de la vision comet :
 
 ## Les exercices de Drill-Down 
 
-- [Flood Fill](https://github.com/hellocomet/comet_qualification/raw/master/Flood%20Fill.pdf)
+- [Flood Fill](https://github.com/hellocomet/comet_qualification/raw/master/exo_floodfill.pdf)
 
 - Comment peut-on créer un site de jeu d’échecs en ligne, humain contre humain ? 
 
