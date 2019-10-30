@@ -31,6 +31,8 @@ Voici quelques éléments de contenu à propos de la vision comet :
 
 - [Flood Fill](exo_floodfill.pdf)
 
+- [Comment peut-on créer le système de gestion des bombes atomiques Français (sous-marin, bunker...,)?](exo_nucleaire.md) 
+
 - [Comment peut-on créer un site de jeu d’échecs en ligne, humain contre humain ?](exo_echecs.md) 
 
 - [Comment peut-on créer une webradio live ? Comment peut-on créer son évolution on demand (type spotify) ?](exo_webradio.md)
